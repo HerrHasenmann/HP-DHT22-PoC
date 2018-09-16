@@ -3,6 +3,7 @@ node_modules/
 *.min.css
 
 datastore.properties
+*account.json
 
 ### STS ###
 .apt_generated
